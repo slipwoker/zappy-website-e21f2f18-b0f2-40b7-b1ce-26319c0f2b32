@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# א.ש מיזוג אוויר — Generative Engine Optimization Map
+
+> A מיזוג אוויר תעשייתי business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://ash-air-conditioning.zappy5.app
 מערכות מיזוג אוויר תעשייתי מתקדמות לחברות מובילות בארץ. פתרונות מקצועיים למפעלים ומבני תעשייה. צור קשר עוד היום!
 
 ### שירותים
-https://example.com/services
+https://ash-air-conditioning.zappy5.app/services
 שירותי מיזוג אוויר תעשייתי מקיפים לחברות מובילות: התקנה, אחזוקה, שדרוגים וייעוץ מקצועי. פתרונות מותאמים למפעלים ומתקנים תעשייתיים.
 
 ### אודות
-https://example.com/about
+https://ash-air-conditioning.zappy5.app/about
 א.ש מיזוג אוויר - מובילים בתחום המיזוג התעשייתי בישראל. ניסיון רב שנים בעבודה עם חברות מובילות בארץ. מקצועיות, אמינות וחדשנות.
 
 ### צור קשר
-https://example.com/contact
+https://ash-air-conditioning.zappy5.app/contact
 צור קשר עם א.ש מיזוג אוויר לפרויקטים במיזוג אוויר תעשייתי. שירות מקצועי לחברות מובילות בארץ. זמינים 24/7 לייעוץ והצעות מחיר.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ash-air-conditioning.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ash-air-conditioning.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ash-air-conditioning.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About א.ש מיזוג אוויר
+א.ש מיזוג אוויר is a business in the מיזוג אוויר תעשייתי industry.
+
+## Target Audience
+חברות מובילות בארץ
+
+## Industry
+מיזוג אוויר תעשייתי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://ash-air-conditioning.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ash-air-conditioning.zappy5.app/robots.txt
