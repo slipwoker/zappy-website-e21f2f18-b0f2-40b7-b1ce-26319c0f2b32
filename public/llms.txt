@@ -1,57 +1,47 @@
-# א.ש מיזוג אוויר — Generative Engine Optimization Map
-
-> A מיזוג אוויר תעשייתי business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-e21f2f18.zappy5.app
+https://example.com
 מערכות מיזוג אוויר תעשייתי מתקדמות לחברות מובילות בארץ. פתרונות מקצועיים למפעלים ומבני תעשייה. צור קשר עוד היום!
 
 ### שירותים
-https://-e21f2f18.zappy5.app/services
+https://example.com/services
 שירותי מיזוג אוויר תעשייתי מקיפים לחברות מובילות: התקנה, אחזוקה, שדרוגים וייעוץ מקצועי. פתרונות מותאמים למפעלים ומתקנים תעשייתיים.
 
 ### אודות
-https://-e21f2f18.zappy5.app/about
+https://example.com/about
 א.ש מיזוג אוויר - מובילים בתחום המיזוג התעשייתי בישראל. ניסיון רב שנים בעבודה עם חברות מובילות בארץ. מקצועיות, אמינות וחדשנות.
 
 ### צור קשר
-https://-e21f2f18.zappy5.app/contact
+https://example.com/contact
 צור קשר עם א.ש מיזוג אוויר לפרויקטים במיזוג אוויר תעשייתי. שירות מקצועי לחברות מובילות בארץ. זמינים 24/7 לייעוץ והצעות מחיר.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-e21f2f18.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-e21f2f18.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-e21f2f18.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About א.ש מיזוג אוויר
-א.ש מיזוג אוויר is a business in the מיזוג אוויר תעשייתי industry.
-
-## Target Audience
-חברות מובילות בארץ
-
-## Industry
-מיזוג אוויר תעשייתי
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-e21f2f18.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-e21f2f18.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
